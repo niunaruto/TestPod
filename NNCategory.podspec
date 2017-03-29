@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version      = "0.0.1"
   s.summary      = "Test of NNCategory."
 
-  s.description      = "测试而已"
+  s.description      = "just test pod"
 
   s.homepage     = "https://github.com/niunaruto/TestPod"
   s.license      = "MIT"
