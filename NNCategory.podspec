@@ -1,11 +1,9 @@
 Pod::Spec.new do |s|
   s.name         = "NNCategory"
-  s.version      = "0.0.5"
+  s.version      = "0.0.1"
   s.summary      = "Test of NNCategory."
 
-  s.description      = <<-DESC
-                        Custom Category used on iOS, which implement by Objective-C.
-                        DESC
+  s.description      = "测试而已"
 
   s.homepage     = "https://github.com/niunaruto/TestPod"
   s.license      = "MIT"
@@ -22,3 +20,4 @@ Pod::Spec.new do |s|
     ss.source_files = 'NNCategory/EasyLog/*.{h,m}'
   end
 end
+
