@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "CECA4C291E88B3190043ED23"
+               BlueprintIdentifier = "CE4F72A91E8B4506001B669B"
                BuildableName = "TestPod.app"
                BlueprintName = "TestPod"
                ReferencedContainer = "container:TestPod.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "CECA4C3D1E88B3190043ED23"
+               BlueprintIdentifier = "CE4F72C21E8B4506001B669B"
                BuildableName = "TestPodTests.xctest"
                BlueprintName = "TestPodTests"
                ReferencedContainer = "container:TestPod.xcodeproj">
@@ -42,7 +42,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "CECA4C481E88B3190043ED23"
+               BlueprintIdentifier = "CE4F72CD1E8B4506001B669B"
                BuildableName = "TestPodUITests.xctest"
                BlueprintName = "TestPodUITests"
                ReferencedContainer = "container:TestPod.xcodeproj">
@@ -52,7 +52,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CECA4C291E88B3190043ED23"
+            BlueprintIdentifier = "CE4F72A91E8B4506001B669B"
             BuildableName = "TestPod.app"
             BlueprintName = "TestPod"
             ReferencedContainer = "container:TestPod.xcodeproj">
@@ -75,7 +75,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CECA4C291E88B3190043ED23"
+            BlueprintIdentifier = "CE4F72A91E8B4506001B669B"
             BuildableName = "TestPod.app"
             BlueprintName = "TestPod"
             ReferencedContainer = "container:TestPod.xcodeproj">
@@ -94,7 +94,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CECA4C291E88B3190043ED23"
+            BlueprintIdentifier = "CE4F72A91E8B4506001B669B"
             BuildableName = "TestPod.app"
             BlueprintName = "TestPod"
             ReferencedContainer = "container:TestPod.xcodeproj">
